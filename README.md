@@ -595,5 +595,3 @@ Simulates web search functionality:
 2. Check for Python version compatibility (3.8+ required)
 3. Run `python setup.py` to ensure proper directory structure
 4. Check Streamlit installation: `streamlit hello` to verify
-
-Thank you for your consideration!
