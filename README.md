@@ -545,13 +545,11 @@ Simulates web search functionality:
 
 1. Deploy onto Azure
 
-2. Migrate the codebase to Cursor
+2. Implementing real web searching
 
-3. Implementing real web searching
+3. Using more AI models
 
-4. Using more AI models
-
-5. Adding new languages
+4. Adding more languages
 
 ## Troubleshooting
 
