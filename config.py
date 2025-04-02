@@ -69,9 +69,9 @@ def get_model_options():
         }
     else:
         return {
-            "mistral-small-latest": "Mistral Small (Fastest ⚡)",
-            "mistral-medium-latest": "Mistral Medium (Balanced)",
-            "mistral-large-latest": "Mistral Large (Most Capable)"
+            "mistral-small": "Mistral Small (Fastest ⚡)",
+            "mistral-medium": "Mistral Medium (Balanced)",
+            "mistral-large": "Mistral Large (Most Capable)"
         }
 
 # Validate API key
